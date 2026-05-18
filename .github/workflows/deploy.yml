@@ -36,4 +36,4 @@ jobs:
 
     - name: Smoke Test
       run: |
-        curl https://azure-cicd-project-staging.azurewebsites.net/health
+        curl https://azure-cicd-project-staging-esfehwgkh5eyfbe9.centralindia-01.azurewebsites.net/health
